@@ -10,8 +10,8 @@ html {
 body {
     font-family: Arial, sans-serif;
     color: #333;
+    font-family: Arial, sans-serif;
 }
-
 
 /* ================= HERO ================= */
 
@@ -71,6 +71,7 @@ nav ul {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family: Arial, sans-serif;
 }
 
 nav ul li a {
@@ -105,6 +106,7 @@ nav ul li a:hover {
 .content h1 {
     font-size: 65px;
     margin-bottom: 20px;
+    font-family: Georgia, serif;
 }
 
 .content h2 {
